@@ -1,0 +1,73 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	margin-left: 0;
+	margin-top: 0;
+	margin-right: 0;
+}
+figure{
+	width: 10px;
+}
+
+
+#jogo { 
+	left: 35%;
+	width: 450px;
+	right: 250px;
+	box-shadow: 0 0 8px #000; 
+	position: absolute; 
+	
+} 
+ 
+#jogo img{
+	width: 100%;
+	
+
+}
+
+.geral button{
+	background-color: black;
+	width: 21%;
+	top: 38%;
+	left: 76%;
+	position: absolute;
+ 
+}
+
+
+
+
+
+.navegacao ul{
+
+	top: 37%;
+	left: 5.5%;
+	position: absolute;
+}
+
+
+.numeros figure {
+		width: 15%;
+		margin: 0;
+		float: left;
+		overflow: hidden;
+		position: relative;
+		
+	}
+.numeros li {
+		float: left;
+		position: relative;
+		float: left;
+		overflow: hidden;
+		margin-left: 30px;
+		
+}
+.geral .resposta{
+
+	width: 100%;
+	position: absolute;
+}
+
+
+
